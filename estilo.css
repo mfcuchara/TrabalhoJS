@@ -4,12 +4,9 @@
 }
 
 body {
-  background: linear-gradient(135deg, #4facfe, #00f2fe);
   color: #333;
-  min-height: 100vh;
   display: flex;
   justify-content: center;
-  align-items: center;
   text-align: center;
   padding: 20px;
   flex-direction: column;
